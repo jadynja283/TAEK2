@@ -13,3 +13,8 @@
 	git status = Shows the working tree status
 	git diff = shows changes on commits, commit and working tree etc
 	git checkout = switches branches or restore working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = Shows changes on commits, comit and working tree etc
+	b) git diff --staged = changes between the index and your last commit
+	c) git diff commit1 commit2 = compare the version between commits

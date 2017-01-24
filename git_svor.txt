@@ -39,3 +39,5 @@
 9.	Hver fann upp GIT?
 	svar = Linus Torvalds árið 2005
 
+10.	Hvar er GIT helst notað?
+	svar = hjá fólki sem vinnur mikið með tölvur eins og hjá forritunnar mönnum

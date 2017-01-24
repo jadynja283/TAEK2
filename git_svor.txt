@@ -24,3 +24,6 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	svar = Það er léttara að vinna með vinnufélögum því þú getur séð þegar einhver breytir 
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	svar = eftir hvert skipti sem þú gerir einhverjar breytingar.

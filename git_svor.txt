@@ -32,3 +32,6 @@
 	"Working directory" er mappa sem git er að vinna í á stundinni
 	"Staging area" er mappa sem er venjukega geymd í git skránni sem geymir upplýsingar um hvað fer inn í næsta commitið þitt
 	"Repository" geymir skjöl og breytingaskrár af því sem að þú breyttir í þessum skjölum
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	svar = þegar þú ert að gera eth nýtt eins og að laga villu er gott að gera grein því þá geturu breytt því eins mikið og þú villt

@@ -35,3 +35,7 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	svar = þegar þú ert að gera eth nýtt eins og að laga villu er gott að gera grein því þá geturu breytt því eins mikið og þú villt
+
+9.	Hver fann upp GIT?
+	svar = Linus Torvalds árið 2005
+

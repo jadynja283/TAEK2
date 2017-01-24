@@ -1,0 +1,4 @@
+﻿#Git spurningar og svör
+
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+svar = "Random access memory" notað se, skammtímis vinnu geymsla fyrir gögn og sem verið að nota við CPU

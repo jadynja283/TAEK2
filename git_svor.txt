@@ -18,3 +18,6 @@
 	a) git diff = Shows changes on commits, comit and working tree etc
 	b) git diff --staged = changes between the index and your last commit
 	c) git diff commit1 commit2 = compare the version between commits
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	svar = Version control er kerfi sem tekur upp breytingar í skrám svo að þú getur farið yfir þær seinna

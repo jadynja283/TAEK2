@@ -1,7 +1,8 @@
-﻿#Git spurningar og svör
+#Git spurningar og svör
 
-1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
-svar = "Random access memory" notað se, skammtímis vinnu geymsla fyrir gögn og sem verið að nota við CPU
-
-2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
-svar = "Read only memory chips" og inniheldur leiðbeiningar sem getur bara leyft aðgang fyrir CPU	  
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = change directory, notuð til að færa sig yfir í möppu.
+	cd ~ = Fer í /h drifið, fer á heimasvæði notandans.
+	ls = listi working directory, sýnir möppur og skrár.
+	pwd = print working database, sýnir hvar þú ert.
+	mkdir = make directory, gerir nýja möppu.

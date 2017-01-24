@@ -1,4 +1,4 @@
-#Git spurningar og svör
+﻿#Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd = change directory, notuð til að færa sig yfir í möppu.
@@ -6,3 +6,10 @@
 	ls = listi working directory, sýnir möppur og skrár.
 	pwd = print working database, sýnir hvar þú ert.
 	mkdir = make directory, gerir nýja möppu.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = Afritar geymslu
+	git log = Sér allar skráningar
+	git status = Shows the working tree status
+	git diff = shows changes on commits, commit and working tree etc
+	git checkout = switches branches or restore working tree files

@@ -27,3 +27,8 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	svar = eftir hvert skipti sem þú gerir einhverjar breytingar.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	"Working directory" er mappa sem git er að vinna í á stundinni
+	"Staging area" er mappa sem er venjukega geymd í git skránni sem geymir upplýsingar um hvað fer inn í næsta commitið þitt
+	"Repository" geymir skjöl og breytingaskrár af því sem að þú breyttir í þessum skjölum

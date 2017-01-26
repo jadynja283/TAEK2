@@ -43,3 +43,6 @@ Open ended questions allow customers to explain the details of the problem inthe
 *Are you a zebra?
 *Did you do this?
 *Are you at school?
+###8.Hvað eru jaðartæki?
+A thing that is not appart of the essential computer. lika a mouse or a keyboardA peripheral devise is defined ad a computer devise.  
+

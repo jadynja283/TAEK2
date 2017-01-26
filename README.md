@@ -44,5 +44,10 @@ Open ended questions allow customers to explain the details of the problem inthe
 *Did you do this?
 *Are you at school?
 ###8.Hvað eru jaðartæki?
-A thing that is not appart of the essential computer. lika a mouse or a keyboardA peripheral devise is defined ad a computer devise.  
+A thing that is not appart of the essential computer. lika a mouse or a keyboardA peripheral devise is defined ad a computer devise.
+###9.Nefndu þrjú dæmi um inntakstæki.
+1. Mice and keyboards These are the two most commonly used input devises.
+2. Touch screens These input devises have touch or pressure sensitive screens.
+3. Joysticks and Gamepads These are input devises for playing games.
+
 

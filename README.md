@@ -32,3 +32,14 @@ follow these reccomendations to help prevent ESD damage
 4. Establish a plan of action to resolve the problem and implement the solution.
 5. Verify full system functionality and if applicable implement preventive measures.
 6. Document findings, actions, and outcomes
+###7.Hver er munurinn á opinn(e.open ended)og lokaðri(closed ended)spurningu? Nefnið dæmi um báðar gerðir af spurningum
+Open ended questions allow customers to explain the details of the problem intheir own words. Closed-ended questions generally require a yes or no answer.
+
+1. Open ended questions
+*When did you last see her?
+*When did you last eat*?
+*Where is your car?
+2. Closed ended questions
+*Are you a zebra?
+*Did you do this?
+*Are you at school?

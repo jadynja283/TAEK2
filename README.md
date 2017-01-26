@@ -25,3 +25,10 @@ follow these reccomendations to help prevent ESD damage
 *Make sure tha power supply provides enough wattage to support the number and types of components plus another 25% at a minimum.
 *Make sure the power supply provides the right type of power connectors.
 *Make sure the power supply can be mounted in the desired case.
+###6.Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+1. Identify the problem
+2. Establish a theory of probable cause.
+3. Test the theory to determind cause.
+4. Establish a plan of action to resolve the problem and implement the solution.
+5. Verify full system functionality and if applicable implement preventive measures.
+6. Document findings, actions, and outcomes

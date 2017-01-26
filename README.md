@@ -18,3 +18,10 @@ follow these reccomendations to help prevent ESD damage
 *Use grounded floor mats in work areas
 
 *Use anatistatic wrist straps when working on computers
+###5.Hvað þarf að hafa í huga við val á spennugjöfum?
+
+*The power supply must be compatable with the motherboard
+*Add the wattage for eacg component. If the wattage is not listed on a component, calculate it by multiplying its voltage and amperage. If the component requires different levels of wattage, use the higher requirement.
+*Make sure tha power supply provides enough wattage to support the number and types of components plus another 25% at a minimum.
+*Make sure the power supply provides the right type of power connectors.
+*Make sure the power supply can be mounted in the desired case.

@@ -37,7 +37,7 @@ Open ended questions allow customers to explain the details of the problem inthe
 
 1. Open ended questions
 *When did you last see her?
-*When did you last eat*?
+*When did you last eat?
 *Where is your car?
 2. Closed ended questions
 *Are you a zebra?
@@ -49,5 +49,20 @@ A thing that is not appart of the essential computer. lika a mouse or a keyboard
 1. Mice and keyboards These are the two most commonly used input devises.
 2. Touch screens These input devises have touch or pressure sensitive screens.
 3. Joysticks and Gamepads These are input devises for playing games.
+###10.Notaðu vefsíður íslenskr5a tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhlut þú valdir, hvað hver íhlutur kostar og hvar hann fæst
+|TYPE        |ITEM                                          |Fáanlegur|PRICE   |
+-------------|:--------------------------------------------:|:-------:|-------:|
+|CPU         |Intel core I5-6400 Quad Core örgjavi          |tölvutek |26.990kr|
+|CPU cooler  |includes its own cooler                       |-||-     |N/A     |
+|Motherboard |Gigabyte s1151 GA-Z17ON-Gaming 5              |Tölvutek |24.990kr|
+|SSD card    |Kingston 240GB XXD hyper X savage             |Elko     |17.995kr|
+|Memory card |Silicon Power Elite Micro SDXC 128GB UHS-i u1 |tölvutek |19.990kr|
+|Video card  |Gigabyte GTX 1050 Ti OC 4GB GDDR5             |tolvutek |29.990kr|
+|Sound card  |Creative SB Z hljóðkort PCI-Express           |tolvutek |19.990kr|
+|Power supply|Gigabyte Sumo Platinum 1000W aflgjafi,        |tolvutek |29.990kr|
+|case        |Thermaltake versa N21 ATX turnkassi m glugga  |tolvutek |14.990kr|
+|Keyboard    |Gigabyte forceK7 stealth USB leikjlyklaborð   |tolvutek |9.990kr |
+|monitor     |V7 L21500WDS 22" LED FHD                      |tolvutek |18.990kr|
+|mouse       |Gygabyte Xm300 presicion optical mús          |tolvutek |9.990kr |
 
-
+samtals = 248.880kr
